@@ -1,0 +1,11 @@
+C:\Users\lenovo\Desktop\codes\C#\contiguous memory allocation\contiguous memory allocation\bin\Debug\contiguous memory allocation.exe.config
+C:\Users\lenovo\Desktop\codes\C#\contiguous memory allocation\contiguous memory allocation\bin\Debug\contiguous memory allocation.exe
+C:\Users\lenovo\Desktop\codes\C#\contiguous memory allocation\contiguous memory allocation\bin\Debug\contiguous memory allocation.pdb
+C:\Users\lenovo\Desktop\codes\C#\contiguous memory allocation\contiguous memory allocation\obj\Debug\contiguous memory allocation.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\codes\C#\contiguous memory allocation\contiguous memory allocation\obj\Debug\contiguous_memory_allocation.Form1.resources
+C:\Users\lenovo\Desktop\codes\C#\contiguous memory allocation\contiguous memory allocation\obj\Debug\contiguous_memory_allocation.Properties.Resources.resources
+C:\Users\lenovo\Desktop\codes\C#\contiguous memory allocation\contiguous memory allocation\obj\Debug\contiguous memory allocation.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\codes\C#\contiguous memory allocation\contiguous memory allocation\obj\Debug\contiguous memory allocation.exe
+C:\Users\lenovo\Desktop\codes\C#\contiguous memory allocation\contiguous memory allocation\obj\Debug\contiguous memory allocation.pdb
+C:\Users\lenovo\Desktop\codes\C#\contiguous memory allocation\contiguous memory allocation\obj\Debug\contiguous_memory_allocation.resultForm.resources
+C:\Users\lenovo\Desktop\codes\C#\contiguous memory allocation\contiguous memory allocation\obj\Debug\contiguous_memory_allocation.ErrorForm.resources
