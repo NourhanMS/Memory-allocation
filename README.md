@@ -29,6 +29,6 @@ Error detection:
 
 2- If user asked to allocate a process with size larger than existing holes , an error message appears to notify him that the process won't be allocated and he has an option to deallocate any other  existing process then reallocate this one .
 
-
+Desktop application
 Used language:
 C# with GUI
